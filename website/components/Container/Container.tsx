@@ -1,7 +1,6 @@
+import cn from 'lib/classNames'
 import { useRouter } from 'next/dist/client/router'
 import Head from 'next/head'
-
-import cn from 'lib/classNames'
 
 // eslint-disable-next-line @typescript-eslint/no-explicit-any
 export default function Container(props: any) {
